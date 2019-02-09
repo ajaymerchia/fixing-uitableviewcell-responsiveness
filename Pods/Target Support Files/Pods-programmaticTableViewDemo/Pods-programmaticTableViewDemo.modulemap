@@ -1,0 +1,6 @@
+framework module Pods_programmaticTableViewDemo {
+  umbrella header "Pods-programmaticTableViewDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

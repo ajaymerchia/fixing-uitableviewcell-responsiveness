@@ -1,0 +1,6 @@
+framework module Pods_programmaticTableViewDemoTests {
+  umbrella header "Pods-programmaticTableViewDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

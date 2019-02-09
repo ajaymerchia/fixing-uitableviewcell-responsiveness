@@ -1,0 +1,35 @@
+PODS:
+  - ARMDevSuite (0.1.14):
+    - ARMDevSuite/Alerts (= 0.1.14)
+    - ARMDevSuite/Layouts (= 0.1.14)
+    - ARMDevSuite/LocalData (= 0.1.14)
+    - ARMDevSuite/Logic (= 0.1.14)
+    - ARMDevSuite/SegControl (= 0.1.14)
+    - ARMDevSuite/UISuite (= 0.1.14)
+  - ARMDevSuite/Alerts (0.1.14):
+    - JGProgressHUD
+  - ARMDevSuite/Layouts (0.1.14)
+  - ARMDevSuite/LocalData (0.1.14)
+  - ARMDevSuite/Logic (0.1.14)
+  - ARMDevSuite/SegControl (0.1.14):
+    - ARMDevSuite/Layouts
+    - ARMDevSuite/UISuite
+  - ARMDevSuite/UISuite (0.1.14):
+    - ARMDevSuite/Layouts
+  - JGProgressHUD (2.0.3)
+
+DEPENDENCIES:
+  - ARMDevSuite
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ARMDevSuite
+    - JGProgressHUD
+
+SPEC CHECKSUMS:
+  ARMDevSuite: ca4595448e36344b7317b8678e0a72c6bbec3135
+  JGProgressHUD: 12b20a8f4ffe05258f8635c1ab92816e451f904d
+
+PODFILE CHECKSUM: cc51093467a1931b8e9c64062e0464ceaca9151d
+
+COCOAPODS: 1.6.0.beta.2
